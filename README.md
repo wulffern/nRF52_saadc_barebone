@@ -8,6 +8,7 @@ on how SAADC can be used.
 Ideally it should be
 ```
 make
+make flash_softdevice
 make flash
 ```
 
@@ -17,8 +18,8 @@ SDKPATH in the Makefile
 # To run
 Connect using BLE UART application (i.e iOS Nordic UART app), and send commands
 
-1. ex1_scan_multiple_channels
-2. ex2_differentiation
+- 1 for ex1_scan_multiple_channels
+- 2 for ex2_differentiation
 
 # Origin
 I've based this example on the ble_peripheral/ble_app_uart example in nRF5_SDK_11, so you
