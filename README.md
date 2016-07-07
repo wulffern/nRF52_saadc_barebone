@@ -31,7 +31,7 @@ program embedded code), so I'm sorry if you find these examples a bit
 messy.
 
 Any concrete criticism/improvment requests are welcome. Send me a
-private message on devzone.nordicsemi.com
+private message on http://devzone.nordicsemi.com, my nick is cwulff
 
 # Disclamer
 This is not an official Nordic Semiconductor release, it's examples
